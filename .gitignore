@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+env/
+
+# Ignore cache
+__pycache__/
+
+# Ignore screenshots
+screenshots/
+
+# Ignore system files
+*.pyc
+*.pyo
+*.DS_Store
+
+# Ignore local config override
+config.json
